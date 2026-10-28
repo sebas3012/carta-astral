@@ -11,6 +11,7 @@ Página web donde el usuario ingresa sus datos de nacimiento para calcular su ca
 - Ciudad de nacimiento
 
 > **Estado:** en desarrollo. Por ahora está el formulario y los estilos; el botón **Calcular** todavía no realiza el cálculo.
+En progreso 20%
 
 ## Tecnologías
 
